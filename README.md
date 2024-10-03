@@ -2,7 +2,7 @@
 
 ![Profile views](https://komarev.com/ghpvc/?username=WellingtonFerreira018&color=blue)
 [![Linkedin Badge](https://img.shields.io/badge/-WellingtonFerreira-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/wellington-ferreira-9b087224b/)](https://www.linkedin.com/in/wellington-ferreira-9b087224b/)
-[![Gmail Badge](https://img.shields.io/badge/-seu.email@gmail.com-red?style=flat-square&logo=Gmail&logoColor=white&link=mailto:seu.email@gmail.com)](mailto:seu.email@gmail.com)
+[![Gmail Badge](https://img.shields.io/badge/-wellingtonf@alunos.utfpr.edu.br-red?style=flat-square&logo=Gmail&logoColor=white&link=mailto:wellingtonf@alunos.utfpr.edu.br)](mailto:wellingtonf@alunos.utfpr.edu.br)
 
 ### 🧑‍💻 Sobre Mim
 
